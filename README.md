@@ -6,3 +6,6 @@ conda create -n mchatbot python=3.8 -y
 
 # Activating the env #
 conda activate mchatbot
+
+# To install all the library from requirements.txt file #
+pip install -r requirements.txt
