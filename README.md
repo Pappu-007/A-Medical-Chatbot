@@ -1,6 +1,9 @@
 # A-Medical-Chatbot
 ## Steps to run the project
 
+# Clone the github repository in a folder #
+git clone code_link_from_github
+
 # Creating a virtual environment #
 conda create -n mchatbot python=3.8 -y
 
